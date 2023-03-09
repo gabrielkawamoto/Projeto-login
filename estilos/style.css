@@ -57,6 +57,10 @@ div#formulario > p {
     font-size: 0.9em;
 }
 
+::placeholder {
+    color: white;
+}
+
 .campo {
     display: block;
     background-color: #5f2c82;
